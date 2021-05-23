@@ -20,7 +20,7 @@ def menu():
                      break;
             case 2:  space_inv_normal();
                      break;
-            case 3:  space_inv_hard;
+            case 3:  space_inv_hard();
                      break;
             default: error = "ERROR";
                      break;
